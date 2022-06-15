@@ -1,6 +1,5 @@
 from replit import clear
-#HINT: You can call clear() to clear the output in the console.
-from art import logo
+from art(2) import logo
 print(logo)
 
 finish = False
