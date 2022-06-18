@@ -1,5 +1,5 @@
 from replit import clear
-from art(2) import logo
+from art_blind_auction import logo
 print(logo)
 
 finish = False
