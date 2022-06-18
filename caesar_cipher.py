@@ -21,7 +21,7 @@ def caesar(start_text, shift_amount, cipher_direction):
 
 #TODO-1: Import and print the logo from art.py when the program starts.
 
-from art import logo
+from art_caesar_cipher import logo
 print(logo)
 
 #TODO-4: Can you figure out a way to ask the user if they want to restart the cipher program?
