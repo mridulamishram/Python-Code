@@ -1,5 +1,5 @@
 from art_guess_the_number import logo
-import random
+from random import randint
 
 # Global Variables
 easy_turns = 10
